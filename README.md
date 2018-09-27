@@ -187,7 +187,7 @@ Go拥有一个轻量级的测试框架，它由 go test 命令和 testing 包构
    这样便表示测试成功了。
    
 
-  [8]: https://i.loli.net/2018/09/24/5ba8fd957319b7]: https://i.loli.net/2018/09/24/5ba8ee1e8f013.png
+
 
 
   [1]: https://i.loli.net/2018/09/24/5ba8b15eed940.png
@@ -197,6 +197,6 @@ Go拥有一个轻量级的测试框架，它由 go test 命令和 testing 包构
   [5]: https://i.loli.net/2018/09/24/5ba8eb831470d.png
   [6]: https://i.loli.net/2018/09/24/5ba8edf7c8dd5.png
   [7]: https://i.loli.net/2018/09/24/5ba8ee1e8f013.png
-  [8]: https://i.loli.net/2018/09/24/5ba8fddbb9953.png
+  [8]: https://i.loli.net/2018/09/24/5ba8ee1e8f013.png
   [9]: https://i.loli.net/2018/09/24/5ba8fddbb9953.png
   [10]: https://i.loli.net/2018/09/27/5bacf69d2ef5e.png
